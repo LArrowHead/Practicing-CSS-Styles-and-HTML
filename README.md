@@ -6,7 +6,7 @@ Soon There will be actual attempts at 'newsletters' explaining certain topics ho
 #######To Do List: 
 
 * Essay of map making for me and gameplay ideas.
-* Posting the above on some of forum.
+* Posting the above on some type of forum.
 * Creating a informational html 'letter'.
 * Organize, organize, organize.
 
