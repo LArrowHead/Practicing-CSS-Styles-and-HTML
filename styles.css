@@ -1,0 +1,50 @@
+html {
+    background-color: #454;
+    backface-visibility: visible;
+    border-bottom-color: #454;
+    border-top-color: #454
+}
+
+body {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    max-width: 700px;
+    font-family: Helvetica, Arial,sans-serif,Times New Roman, cursive;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: 777;
+    background-color: burlywood;
+    box-shadow: 0 1 2px rgba(0, 1, 0, 0.06);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: midnightblue;
+    font-weight: 500;
+    line-height: 2.4em;
+    background-color: burlywood;
+}
+
+h2 {
+    margin-top: 1.1em;
+    margin-bottom: auto; 
+    align-self: stretch;
+}
+
+a { 
+    color: 0083e8;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+p {
+    color: dimgrey;
+    backface-visibility: visible;
+    border-color: aliceblue;
+    font-weight: 400;
+}  
